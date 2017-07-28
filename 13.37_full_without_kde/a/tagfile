@@ -37,6 +37,7 @@ glibc-solibs:ADD
 glibc-zoneinfo:ADD
 gpm:ADD
 grep:ADD
+gzip:ADD
 hdparm:ADD
 infozip:ADD
 inotify-tools:ADD
@@ -70,6 +71,7 @@ openssl-solibs:ADD
 patch:ADD
 pciutils:ADD
 pcmciautils:ADD
+pkgtools:ADD
 procps:ADD
 quota:ADD
 reiserfsprogs:ADD
@@ -87,6 +89,7 @@ syslinux:ADD
 sysvinit-functions:ADD
 sysvinit-scripts:ADD
 sysvinit:ADD
+tar:ADD
 tcsh:ADD
 time:ADD
 tree:ADD
@@ -98,4 +101,5 @@ utempter:ADD
 util-linux:ADD
 which:ADD
 xfsprogs:ADD
+xz:ADD
 zoo:ADD
