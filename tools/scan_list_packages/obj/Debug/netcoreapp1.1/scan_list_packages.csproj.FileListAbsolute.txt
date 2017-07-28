@@ -1,0 +1,8 @@
+D:\Projects\4.slackware_tagfile\tools\scan_list_packages\bin\Debug\netcoreapp1.1\scan_list_packages.deps.json
+D:\Projects\4.slackware_tagfile\tools\scan_list_packages\bin\Debug\netcoreapp1.1\scan_list_packages.runtimeconfig.json
+D:\Projects\4.slackware_tagfile\tools\scan_list_packages\bin\Debug\netcoreapp1.1\scan_list_packages.runtimeconfig.dev.json
+D:\Projects\4.slackware_tagfile\tools\scan_list_packages\bin\Debug\netcoreapp1.1\scan_list_packages.dll
+D:\Projects\4.slackware_tagfile\tools\scan_list_packages\bin\Debug\netcoreapp1.1\scan_list_packages.pdb
+D:\Projects\4.slackware_tagfile\tools\scan_list_packages\obj\Debug\netcoreapp1.1\scan_list_packages.AssemblyInfo.cs
+D:\Projects\4.slackware_tagfile\tools\scan_list_packages\obj\Debug\netcoreapp1.1\scan_list_packages.dll
+D:\Projects\4.slackware_tagfile\tools\scan_list_packages\obj\Debug\netcoreapp1.1\scan_list_packages.pdb
