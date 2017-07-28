@@ -17,7 +17,7 @@ namespace scan_list_packages
             string fileName_listPackage = @"d:\Projects\4.slackware_tagfile\tools\scan_list_packages\list_packages";
             string tagDir = @"d:\Projects\4.slackware_tagfile\13.37_minimum\";
             Business bu = new Business();
-            //bu.skip_all_package(@"d:\Projects\4.slackware_tagfile\13.37_minimum\");
+            //bu.skip_all_package(tagDir);
             bu.add_pkgs_from_file_to_tagdir(fileName_listPackage, tagDir);
         }
 

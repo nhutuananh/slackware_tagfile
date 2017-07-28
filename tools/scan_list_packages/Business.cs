@@ -14,7 +14,6 @@ namespace scan_list_packages
                 string[] fileEntries = Directory.GetFiles(dirName);
                 foreach (var fileName in fileEntries)
                 {
-                    //Console.WriteLine(fileName);
                     string[] lines = File.ReadAllLines(fileName);
                     foreach (var line in lines)
                     {
@@ -43,7 +42,6 @@ namespace scan_list_packages
 
         private void add_package(string fileName, string package)
         {
-            Console.WriteLine("fileName" + fileName);
             if (string.IsNullOrEmpty(fileName))
                 return;
 
@@ -68,10 +66,9 @@ namespace scan_list_packages
                 }
                 else
                 {
-                    Console.WriteLine("package: " + line);
+                    // update tagfile from :SKP to :ADD
+                    add_package(tagFile, line);
                 }
-                // update tagfile from :SKP to :ADD
-                add_package(tagFile, line);
             }
         }
     }

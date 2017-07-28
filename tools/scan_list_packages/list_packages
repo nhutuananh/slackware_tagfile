@@ -17,7 +17,7 @@ glibc-solibs
 gnupg
 grep
 gzip
-iputils-s20070202-i486-2
+iputils
 kernel-huge-smp
 kernel-modules-smp
 logrotate
